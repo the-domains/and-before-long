@@ -1,0 +1,28 @@
+name: And Before Long
+favicon: null
+layout_spectrum: 0.5894750514999032
+typography_spectrum: 0.3339457761030644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.22436599456705153
+  lightness: 0.9190377646591514
+  saturation: 0.6231865661684424
+  rhythmicContrast: 0.7012153593823314
+purpose: []
