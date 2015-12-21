@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-21T20:00:41.514Z'
-dateModified: '2015-12-21T19:59:39.703Z'
+description: A description of a quote
+datePublished: '2015-12-21T20:02:23.197Z'
+dateModified: '2015-12-21T20:02:19.501Z'
 title: Fear is a natural reaction to moving closer to the truth.
 author: []
 sourcePath: _posts/2015-12-21-fear-is-a-natural-reaction-to-moving-closer-to-the-truth.md
@@ -22,4 +22,8 @@ publisher:
 _type: Blurb
 
 ---
-> Fear is a natural reaction to moving closer to the truth. ---Pema Chodron
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/275a0e1c-56f6-4a11-850e-f7480fe8dca6.jpg)
+
+> Fear is a natural reaction to moving closer to the truth. ---Pena Chodron
+> 
+>
