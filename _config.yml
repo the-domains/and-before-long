@@ -1,7 +1,7 @@
 name: And Before Long
 favicon: null
-layout_spectrum: 0.5894750514999032
-typography_spectrum: 0.3339457761030644
+layout_spectrum: 1
+typography_spectrum: 0.09424
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.22436599456705153
-  lightness: 0.9190377646591514
-  saturation: 0.6231865661684424
-  rhythmicContrast: 0.7012153593823314
+    - '#f0bb31'
+    - '#57b5c1'
+    - '#f05d67'
+    - '#34343e'
+    - '#ffffff'
+  brandStrength: 0.875
+  lightness: 0.875
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
